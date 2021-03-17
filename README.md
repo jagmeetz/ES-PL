@@ -8,3 +8,6 @@
 
 ## Recommended Playlist for AVR microcontrollers
 * https://www.youtube.com/watch?v=9ADxPRjZI4Q&list=PLA6BB228B08B03EDD&index=2
+
+## Recommended Course for ARM
+* https://learning.edx.org/course/course-v1:UTAustinX+UT.6.10x+3T2019/home
