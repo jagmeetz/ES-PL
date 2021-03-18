@@ -12,5 +12,8 @@
 ## Atmega328p datasheet
 * https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf
 
+## ARM Introduction
+* http://www.ocfreaks.com/lpc2148-gpio-programming-tutorial/
+
 ## Recommended Course for ARM
 * https://learning.edx.org/course/course-v1:UTAustinX+UT.6.10x+3T2019/home
